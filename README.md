@@ -27,21 +27,21 @@ Favorites</br>
 Font Awesome icons</br>
 Pages</br>
 
-<b>Facebook social login page</b><hr>
-<b>Top navigation bar with RoomMe icon, Profile, Listings, Add Listing and Login nav links</b><hr>
-<b>Home Page</b><hr>
+<b>Facebook social login page</b></br>
+<b>Top navigation bar with RoomMe icon, Profile, Listings, Add Listing and Login nav links</b></br>
+<b>Home Page</b>
 shows the top nav bar</br>
 displays content promoting the site</br>
 has a link to show property listings</br>
-<b>Listings Page</b><hr>
+<b>Listings Page</b></br>
 displays a grid of panels of all available listings</br>
 search feature</br>
-<b>Listing Detail Page</b><hr>
+<b>Listing Detail Page</b></br>
 shows additional detail data on the listing</br>
 ability to add to favorites to rent</br>
 ability to contact host using a message form</br>
 message history to display in a table below message form</br>
-<b>Add Listing Page Fields</b><hr>
+<b>Add Listing Page Fields</b></br>
 Address</br>
 City</br>
 State</br>
@@ -50,7 +50,7 @@ Price</br>
 Description</br>
 Filepicker button to add image</br>
 Add Listing Button</br>
-<b>Profile Page</b><hr>
+<b>Profile Page</b></br>
 displays user profile detail</br>
 ability to edit custom user profile data</br>
 zip code</br>
@@ -64,6 +64,6 @@ link to logout</br>
 table of favorites to rent</br>
 ability to add property to list as host</br>
 display user's properties with edit / delete buttons</br>
-Messages Page<hr>
+Messages Page</br>
 displays table of messages to/from user with links to show individual message detail</br>
 
