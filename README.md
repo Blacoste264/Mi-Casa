@@ -1,13 +1,13 @@
 "Mi Casa"
 
-Building a social networking site for people to list, discover and book temporary accomodations
+<h1>Building a social networking site for people to list, discover and book temporary accomodations</h1>
 
---Backend--
-SQL Server
+<b>--Backend--</b>
+SQL Server</br>
 Entity Framework
 ASP Web API
 
---Frontend--
+<b>--Frontend--</b>
 HTML5
 CSS Frameworks (You do not HAVE to use Bootstrap)
 Angular
@@ -27,21 +27,21 @@ Favorites
 Font Awesome icons
 Pages
 
-Facebook social login page
-Top navigation bar with RoomMe icon, Profile, Listings, Add Listing and Login nav links
-Home Page
+<b>Facebook social login page</b>
+<b>Top navigation bar with RoomMe icon, Profile, Listings, Add Listing and Login nav links</b>
+<b>Home Page</b>
 shows the top nav bar
 displays content promoting the site
 has a link to show property listings
-Listings Page
+<b>Listings Page</b>
 displays a grid of panels of all available listings
 search feature
-Listing Detail Page
+<b>Listing Detail Page</b>
 shows additional detail data on the listing
 ability to add to favorites to rent
 ability to contact host using a message form
 message history to display in a table below message form
-Add Listing Page Fields
+<b>Add Listing Page Fields</b>
 Address
 City
 State
@@ -50,7 +50,7 @@ Price
 Description
 Filepicker button to add image
 Add Listing Button
-Profile Page
+<b>Profile Page</b>
 displays user profile detail
 ability to edit custom user profile data
 zip code
