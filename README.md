@@ -29,7 +29,7 @@ Pages</br>
 
 <b>Facebook social login page</b></br>
 <b>Top navigation bar with RoomMe icon, Profile, Listings, Add Listing and Login nav links</b></br>
-<b>Home Page</b>
+<b>Home Page</b></br>
 shows the top nav bar</br>
 displays content promoting the site</br>
 has a link to show property listings</br>
