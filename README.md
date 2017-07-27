@@ -1,69 +1,69 @@
-"Mi Casa"
+<h1>"Mi Casa"</h1>
 
-<h1>Building a social networking site for people to list, discover and book temporary accomodations</h1>
+<h2>Building a social networking site for people to list, discover and book temporary accomodations</h2>
 
 <b>--Backend--</b>
 SQL Server</br>
-Entity Framework
-ASP Web API
+Entity Framework</br>
+ASP Web API</br>
 
 <b>--Frontend--</b>
-HTML5
-CSS Frameworks (You do not HAVE to use Bootstrap)
-Angular
-Angular UI Router
-ngSweetAlert
-Angular Local Storage
-Angular Social Login
-Angular Filepicker
-Font Awesome
+HTML5</br>
+CSS Frameworks(Bootstrap)</br>
+Angular</br>
+Angular UI Router</br>
+ngSweetAlert</br>
+Angular Local Storage</br>
+Angular Social Login</br>
+Angular Filepicker</br>
+Font Awesome</br>
 
-<b>App Requirements</b>
+<b>App Requirements</b><hr>
 
-Create a Facebook social login page to get the user's name and email from Facebook and save to the database.
-Basic messaging
-Remote hosted property images
-Favorites
-Font Awesome icons
-Pages
+Create a Facebook social login page to get the user's name and email from Facebook and save to the database.</br>
+Basic messaging</br>
+Remote hosted property images</br>
+Favorites</br>
+Font Awesome icons</br>
+Pages</br>
 
-<b>Facebook social login page</b>
-<b>Top navigation bar with RoomMe icon, Profile, Listings, Add Listing and Login nav links</b>
-<b>Home Page</b>
-shows the top nav bar
-displays content promoting the site
-has a link to show property listings
-<b>Listings Page</b>
-displays a grid of panels of all available listings
-search feature
-<b>Listing Detail Page</b>
-shows additional detail data on the listing
-ability to add to favorites to rent
-ability to contact host using a message form
-message history to display in a table below message form
-<b>Add Listing Page Fields</b>
-Address
-City
-State
-Zip
-Price
-Description
-Filepicker button to add image
-Add Listing Button
-<b>Profile Page</b>
-displays user profile detail
-ability to edit custom user profile data
-zip code
-contact phone
-birthdate
-password
-email
-username
-link to messages
-link to logout
-table of favorites to rent
-ability to add property to list as host
-display user's properties with edit / delete buttons
-Messages Page
-displays table of messages to/from user with links to show individual message detail
+<b>Facebook social login page</b><hr>
+<b>Top navigation bar with RoomMe icon, Profile, Listings, Add Listing and Login nav links</b><hr>
+<b>Home Page</b><hr>
+shows the top nav bar</br>
+displays content promoting the site</br>
+has a link to show property listings</br>
+<b>Listings Page</b><hr>
+displays a grid of panels of all available listings</br>
+search feature</br>
+<b>Listing Detail Page</b><hr>
+shows additional detail data on the listing</br>
+ability to add to favorites to rent</br>
+ability to contact host using a message form</br>
+message history to display in a table below message form</br>
+<b>Add Listing Page Fields</b><hr>
+Address</br>
+City</br>
+State</br>
+Zip</br>
+Price</br>
+Description</br>
+Filepicker button to add image</br>
+Add Listing Button</br>
+<b>Profile Page</b><hr>
+displays user profile detail</br>
+ability to edit custom user profile data</br>
+zip code</br>
+contact phone</br>
+birthdate</br>
+password</br>
+email</br>
+username</br>
+link to messages</br>
+link to logout</br>
+table of favorites to rent</br>
+ability to add property to list as host</br>
+display user's properties with edit / delete buttons</br>
+Messages Page<hr>
+displays table of messages to/from user with links to show individual message detail</br>
 
