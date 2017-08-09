@@ -1,6 +1,6 @@
 <h1>"Mi Casa"</h1>
 
-<h2>Building a social networking site for people to list, discover and book temporary accomodations</h2>
+<h2>Building a social networking site for people to list, discover and book temporary accommodations.</h2>
 
 <b>--Backend--</b>
 SQL Server</br>
